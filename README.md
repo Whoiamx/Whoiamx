@@ -1,19 +1,15 @@
-<iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p>
+<div id="header" align=center>
+<img src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="200">
+<h1 align="center">Hola a todos!</h1>
+<h3 align="center">
+Hola, soy Gaston Timchuk Bilik! Un Desarrollador Fullstack con un amor profundo por la tecnología y la programación. Mi objetivo es crear soluciones elegantes y eficientes para desafíos técnicos, y mi pasión por el desarrollo web me ha llevado a explorar una variedad de tecnologías y proyectos emocionantes.
 
+Con experiencia en HTML,CSS y JavaScript, disfruto resolviendo problemas complejos y colaborar en equipos para crear software de alta calidad.
 
-### Hola a todos! 👋
+Echa un vistazo a mis repositorios para conocer algunos de mis proyectos y no dudes en contactarme si tienes alguna pregunta o sugerencia.
 
-<!--
-**Whoiamx/Whoiamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Gracias por visitar mi perfil!
 
-Here are some ideas to get you started:
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
