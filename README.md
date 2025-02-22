@@ -1,5 +1,14 @@
 # 💫 Bienvenidos a todos!:
-Soy Gaston Timchuk Bilik 👋🏻<br>Un Desarrollador FrontEnd con un amor profundo por la tecnología y la programación. Mi objetivo es crear soluciones elegantes y eficientes para desafíos técnicos, y mi pasión por el desarrollo web me ha llevado a explorar una variedad de tecnologías y proyectos emocionantes.<br>Con experiencia en HTML,CSS y JavaScript, disfruto resolviendo problemas complejos y colaborar en equipos para crear software de alta calidad.<br>Revisa mis repositorios para conocer algunos de mis proyectos y no dudes en contactarme si tienes alguna pregunta o sugerencia.<br>¡Gracias por visitar mi perfil!
+👋🏻 ¡Hola! Soy Gastón Timchuk Bilik, un Desarrollador FrontEnd apasionado por la tecnología y la creación de experiencias web fluidas y atractivas. Me especializo en el desarrollo de interfaces dinámicas y optimizadas, combinando diseño y código para ofrecer soluciones eficientes y modernas.
+
+💻 Tecnologías con las que trabajo:
+✅ FrontEnd: HTML, CSS, JavaScript, React, Next.js.
+🎨 Estilos y UI: Material UI, Tailwind CSS, CSS Modules, Styled Components,Figma.
+
+
+Actualmente, trabajo como Analista Funcional / QA, lo que me ha dado una perspectiva más amplia sobre el desarrollo de software, la calidad del código y la experiencia del usuario. Siempre estoy explorando nuevas tecnologías para seguir mejorando y creciendo en este mundo en constante evolución.
+
+🚀 ¿Te interesa colaborar o tienes alguna pregunta? Revisá mis repositorios para ver mis proyectos o escribime. ¡Siempre abierto a nuevas oportunidades y charlas sobre tecnología!
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastontimchuk/)
